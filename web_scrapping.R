@@ -1,3 +1,5 @@
+library(RCurl)
+
 #dataset
 df <- read.csv("train.csv",stringsAsFactors = F)
 
